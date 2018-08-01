@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.SmokeTesting.TC_MEDI_ForgetPasswordPageWith_InvalidData_Test_011"/>
+      <class name="com.FunctionalTesting.TC_MEDI_nursing_at_Doorstep_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_PharmacyPage_Test_018"/>
+      <class name="com.SmokeTesting.TC_MEDI_RegistrationPageWith_InValidData_test_017"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Contactus_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_PhysioTherapy_Invalid_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_OTC_FirstAid_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Mother_Baby_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Diabetes_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Beauty_Products_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_UploadPrescription_Test"/>
+      <class name="com.SmokeTesting.TC_MEDI_AUT_001"/>
+      <class name="com.FunctionalTesting.TC_MEDI_HeaderLink_Test_003"/>
+      <class name="com.FunctionalTesting.TC_MEDI_MedicalDevicesPage_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Pharmacy_Door_Step_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Lab_Diagnosis_Doorstep_Invalid_Test"/>
+      <class name="com.SmokeTesting.TC_MEDI_ForgetPasswordPage_ValidData_Test_010"/>
+      <class name="com.SmokeTesting.TC_MEDI_Registration_With_Valid_Data_Test_016"/>
+      <class name="com.SmokeTesting.TC_Medi_Titile"/>
+      <class name="com.FunctionalTesting.TC_MEDI_HomePage_Test_002"/>
+      <class name="com.FunctionalTesting.TC_MEDI_OTC_Healthcare_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Lab_Diagnosis_Doorstep_Test"/>
+      <class name="com.SmokeTesting.TC_MEDI_Loginwith_ValidData_Test_006"/>
+      <class name="com.commonUtilities.CrossBrowser"/>
+      <class name="com.SmokeTesting.TC_MEDI_loginwith_Invalid_Data_Test_007"/>
+      <class name="com.FunctionalTesting.TC_MEDI_PhysioTherapy_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_nursing_at_Doorstep_Invalid_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_OTC_Womens_Care_Test"/>
+      <class name="com.SmokeTesting.TC_Medi_Totallinks"/>
+      <class name="com.FunctionalTesting.TC_MEDI_OTC_MENS_CARE_Test"/>
+      <class name="com.SmokeTesting.Tc_Medi_logo"/>
+      <class name="com.FunctionalTesting.TC_MEDI_OTC_Test"/>
+      <class name="com.FunctionalTesting.TC_MEDI_Getan_appointment_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
